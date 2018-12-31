@@ -1,0 +1,1 @@
+<?php readfile("website6.html"); ?>
